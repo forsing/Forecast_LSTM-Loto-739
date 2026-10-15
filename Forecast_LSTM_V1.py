@@ -21,9 +21,9 @@ import numpy as np
 
 
 DEFAULTS = [
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_2973.csv",
-    "/Users/4c/Desktop/GHQ/data/loto7_4702_k82_loto_plus_1729.csv",
+    "/data/loto7_4702_k82.csv",
+    "/data/loto7_4702_k82_loto_2973.csv",
+    "/data/loto7_4702_k82_loto_plus_1729.csv",
 ]
 
 CONTEXT = 20
@@ -633,7 +633,7 @@ Razlicitih predloga: 1/64
 Predloga prisutnih u prethodnoj istoriji: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT, red 4703: 5,6,8,14,18,20,34
+NEXT, red 4703: 5,x,8,y,18,z,34
 Postoji u istoriji: NE
 Najduzi uzastopni niz: 2; brojeva 1..19: 5
 
@@ -653,7 +653,7 @@ Razlicitih predloga: 1/64
 Predloga prisutnih u prethodnoj istoriji: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT, red 2974: 7,8,16,19,26,33,38
+NEXT, red 2974: 7,x,16,y,26,z,38
 Postoji u istoriji: NE
 Najduzi uzastopni niz: 2; brojeva 1..19: 4
 Na ovom testu model nije nadmasio kontrolu.
@@ -674,7 +674,7 @@ Razlicitih predloga: 1/64
 Predloga prisutnih u prethodnoj istoriji: 0/64
 Predloga sa nizom 5+: 0
 Predloga potpuno u jednoj polovini: 0
-NEXT, red 1730: 3,8,10,23,24,27,34
+NEXT, red 1730: 3,x,10,y,24,z,34
 Postoji u istoriji: NE
 Najduzi uzastopni niz: 2; brojeva 1..19: 3
 Na ovom testu model nije nadmasio kontrolu.
